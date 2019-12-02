@@ -35,8 +35,8 @@ var obj = {
 };
 ```
 
-To generate the bar graph, nee to call library function
--------------------------------------------------------
+To generate the bar graph
+--------------------------
 ```
 generateBarGraph(obj);
 ```
